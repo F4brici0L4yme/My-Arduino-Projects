@@ -5,8 +5,8 @@ Additionally, I’ve included personal projects to explore further.
 
 ### You'll find here:
 
-💻 Source code for each project. (.ino)
-📸 Images of the final builds.
-🔗 Tinkercad links for quick simulation.
+- 💻 Source code for each project. (.ino)
+- 📸 Images of the final builds.
+- 🔗 Tinkercad links for quick simulation.
 
 Go Robotics! 🤖
